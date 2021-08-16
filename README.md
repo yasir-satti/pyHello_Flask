@@ -1,5 +1,3 @@
-README.md
-
 # Minimal Flask App using Visual Studio Code
 
 https://code.visualstudio.com/docs/python/tutorial-flask
